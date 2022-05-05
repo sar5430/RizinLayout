@@ -6,6 +6,14 @@ Ghidra plugin that makes function graph looks kinda like Rizin's one. This is ve
 
 `gradle -PGHIDRA_INSTALL_DIR=/YOUR/PATH/TO/GHIDRA`
 
+The builded zip should be located in `dist/` folder
+
+## Installation
+
+`File -> Install extension -> + -> builded zip`
+
+/!\ /!\ Using this plugin with `Use Condensed Layout` option set gives pretty bad results. Just uncheck the option in `Edit -> Tool options -> Graph -> Function Graph` 
+
 ## Example 
 
 The plugin transform that graph: 
