@@ -12,7 +12,7 @@ The builded zip should be located in `dist/` folder
 
 `File -> Install extension -> + -> builded zip`
 
-/!\ /!\ Using this plugin with `Use Condensed Layout` option set gives pretty bad results. Just uncheck the option in `Edit -> Tool options -> Graph -> Function Graph` 
+/!\ /!\ Using this plugin with `Use Condensed Layout` option checked gives pretty bad results. Just uncheck the option in `Edit -> Tool options -> Graph -> Function Graph` 
 
 ## Example 
 
